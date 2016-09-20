@@ -2,4 +2,4 @@
 
 @section('content')
     Home.
-@stop
+@endsection
