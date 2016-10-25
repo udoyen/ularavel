@@ -14,11 +14,11 @@ class HomeController extends Controller
 {
     //
     public function home(){
-        
+//        
 //        Mail::send('emails.auth.test', array('name'=> 'George'), function($message){
 //            $message->to('udoyen@gmail.com', 'George Udosen')->subject('Test email');
 //        });
-        
+//        
         return View('home');
     }
 }
